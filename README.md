@@ -54,4 +54,4 @@ Future work will focus on improving the model and developing a parking availabil
 
 8. Author
 
-/Khalid Awad
+Khalid Awad
